@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa118f0Dc44Fd9B967b77F2B0B18996f5fBA34CA2",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa118f0dc44fd9b967b77f2b0b18996f5fba34ca2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BOBO",
+  "SYMBOL": "BO",
+  "MAX_SUPPLY": 4,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/BO",
+  "SHOW_BACKGROUND": true
+}
